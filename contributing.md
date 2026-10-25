@@ -300,3 +300,5 @@ Troubleshooting.
 | **Version** | 2026 build |
 
 *once-human-peak · Updated 2026-10-25 · Shared under the MIT License*
+
+<!-- last reviewed 2026-10-25 -->
