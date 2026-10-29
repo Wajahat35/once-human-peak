@@ -299,6 +299,6 @@ Troubleshooting.
 | **Price** | $0 |
 | **Version** | 2026 build |
 
-*once-human-peak · Updated 2026-10-28 · Shared under the MIT License*
+*once-human-peak · Updated 2026-10-29 · Shared under the MIT License*
 
-<!-- last reviewed 2026-10-28 -->
+<!-- last reviewed 2026-10-29 -->
